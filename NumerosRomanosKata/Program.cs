@@ -10,6 +10,9 @@ namespace NumerosRomanosKata
 	{
 		static void Main(string[] args)
 		{
+			//Test para GitHub
+			int numero = 1;
+			numero += numero;
 		}
 	}
 }
